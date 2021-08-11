@@ -1,0 +1,8 @@
+{
+  "name": "ServerAutoSave",
+  "author": "pisceskkk",
+  "main": "cn.pisceskkk.ServerAutoSave",
+  "minGameVersion": "126.2",
+  "description": "A plugin to auto save the game.",
+  "version": 1.0
+}
