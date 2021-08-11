@@ -17,7 +17,7 @@ Mindustry plugin to auto save game.
 
 ## TODOs
 
-- [ ] Fix the bug that when server exit, Timer thread cannot exit correctly.
+- [ ] Fix the bug that when server exits, Timer thread cannot exit correctly.
 
 ## Downloading
 
