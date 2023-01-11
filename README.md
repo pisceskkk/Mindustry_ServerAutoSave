@@ -9,6 +9,8 @@
 
 Mindustry plugin to auto save game.
 
+**!!PLUGIN FOR RELEASE BUILD 126.2!!**
+
 ## Features
 
 - Save playing and not paused game per certain waves or minutes.
